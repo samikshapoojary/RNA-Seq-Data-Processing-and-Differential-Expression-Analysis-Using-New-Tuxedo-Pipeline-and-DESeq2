@@ -4,7 +4,7 @@
 #PBS -d /path/to/working/directory
 #PBS -m abe
 #PBS -M your.email@domain.com
-#PBS -q bioinf-stud
+#PBS -q xyz
 
 # Define paths (update these placeholders before use)
 fqpath="/path/to/raw_fastq_files"
