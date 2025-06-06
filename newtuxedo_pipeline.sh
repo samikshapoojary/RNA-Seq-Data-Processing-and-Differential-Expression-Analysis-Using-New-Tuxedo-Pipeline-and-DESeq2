@@ -4,7 +4,7 @@
 #PBS -d /path/to/working/directory
 #PBS -m abe
 #PBS -M your.email@domain.com
-#PBS -q xyz
+#PBS -q your_queue
 
 # Define paths (update these placeholders before use)
 fqpath="/path/to/raw_fastq_files"
